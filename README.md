@@ -74,4 +74,4 @@
 5. Нажимаем `Add`  
 
 # Commit
-1. `Git -> Commit -> Commit and Push`
+1. `Git -> Commit -> Commit and Push`  
